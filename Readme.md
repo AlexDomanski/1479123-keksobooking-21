@@ -2,7 +2,7 @@
 
 * Студент: [Alexander Domanski](https://up.htmlacademy.ru/javascript/21/user/1479123).
 * Наставник: [Пётр Двухреченский](https://htmlacademy.ru/profile/id1223515).
-.
+
 
 ---
 
