@@ -1,7 +1,8 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alexander Domanski](https://up.htmlacademy.ru/javascript/21/user/1479123).
-* Наставник: `Неизвестно`.
+* Наставник: [Пётр Двухреченский](https://htmlacademy.ru/profile/id1223515).
+.
 
 ---
 
